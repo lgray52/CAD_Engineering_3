@@ -16,8 +16,23 @@ This assignment was to design a skateboard using Part Studios in OnShape, in ord
 ### Images
 <img src="images/skateboard_iso.PNG" alt="skateboard isometric view" height="300"> <img src="images/skateboard_trucks.PNG" alt="skateboard view of trucks" height="300"> <img src="images/skateboard_bottom.PNG" alt="skateboard bottom view" height="300">
 
-### Reflection
+### Overall Reflection
 This assignment was a good re-introduction to OnShape, and included a lot of helpful tips on various keyboard shortcuts. Some of the most helpful include "n", for normal, which situates a sketch or face normal to the nearest plane, "f", for fill, which causes the part(s) to fill the whole screen, "shift+e" to extrude, "d" to dimension, "c" for circle, and "shift+f" to fillet. 
+
+#### Deck Reflection
+The deck of the skateboard was based on fairly basic geometry, just two circles centered on the sides of a rectangle, dimensioned, and extruded. This assignment was a basic introduction to various OnShape tools, but the most useful thing about this assignment was definitely the instructions relating to keyboard shortcuts, including "shift+s" to sketch, "n" for normal, and "c" for a circle. The "hole" feature was also quite useful, as it can be used to create holes corresponding to a specific type of screw.
+
+#### Trucks Reflection
+The trucks were built using the holes of the deck to create geometry for a baseplate, hanger, and bushing. The "use" feature can be used while sketching to use geometry from existing sketches or parts in that sketch, enabling the usage of the holes of the deck without having to dimension them separately (the keyboard shortcut is "u"). The hanger and bushing are also made using the relevant geometry from the baseplate and deck.
+
+#### Wheels and Bearings Reflection
+The wheel was made using the revolve feature, rather than extrude, to create a rounded shape like a cylinder whose geometry is "revolved" around a centreline. Construction lines are also used, which can be used by using the shortcuts "l" for line and "q" for construction, for some reason. The bearings are made using the geometry of the wheel.
+
+#### Assembly Reflection
+The mate system in OnShape makes assembling parts really easy using mate connectors. Mate connectors exist based off of part geometry, and can be added to parts for convenience. "K" is a useful command to turn off all the appearances of mate connectors. OnShape also has a cool feature where standard sized screws, bolts, and other standard components that can be used to assemble things are included and can easily be inserted and assembled in an assembly.
+
+#### Bending the Board and Other Add-ons
+For the extension, I bent the board, made the trucks realistic, and changed the shape of the board. This assignment really just drew on the shortcuts and methods used in the previous sections to make the construction more efficient. I used all of the shortcuts that I have been over in this documentation. 
 
 [Back to Table of Contents](#Table_of_Contents)
 
@@ -25,7 +40,7 @@ This assignment was a good re-introduction to OnShape, and included a lot of hel
 ## One_Brick_to_Rule_Them_All
 
 ### Description
-This assingment created a LEGO-like block that could be configured with different lengths, names, colours, types, and heights, using variables and configurations. Configurations are a powerful OnShape tool which allows for the manipulation of different values and lengths in an object. For this assignment, configuring the numbers of rows and columns was a very effective way to change the shape and size of the brick. Additionally, the use of feature scripts to build useful custom features features is an incredibly powerful tool, and can be used to add certain features not included inherently with OnShape. 
+This assignment created a LEGO-like block that could be configured with different lengths, names, colours, types, and heights, using variables and configurations. Configurations are a powerful OnShape tool which allows for the manipulation of different values and lengths in an object. For this assignment, configuring the numbers of rows and columns was a very effective way to change the shape and size of the brick. Additionally, the use of feature scripts to build useful custom features features is an incredibly powerful tool, and can be used to add certain features not included inherently with OnShape. 
 
 ### Evidence
 [OnShape Document](https://cvilleschools.onshape.com/documents/ed1a07c649738c77eab5d2cf/w/d6bda4fdf2ef58b6f1d4500e/e/87b5ddf251ffa55f171ec4d3)
