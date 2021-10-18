@@ -48,9 +48,9 @@ This assignment was to use the blocks built in the Power Tools assignment to bui
 [OnShape Document](https://cvilleschools.onshape.com/documents/ed1a07c649738c77eab5d2cf/w/d6bda4fdf2ef58b6f1d4500e/e/f17eb32a8a420d4228c11109?renderMode=0&uiState=616d7eecbee0f16f0f8d1eed)
 
 ### Images
-<img src="images/" alt="" height="300">
+<img src="images/duck_iso.png" alt="duck assembly isometric view" height="300"> <img src="images/duck_front.png" alt="duck assembly front view" height="300"> <img src="images/exploded_duck.png" alt="duck exploded view" height="300"> <img src="images/multi_duck_drawing.png" alt="duck multi-view drawing" height="300"> <img src="images/exploded_duck_drawing.png" alt="exploded view duck drawing" height="300">
 
 ### Reflection
-The snap tool was used in this assignment to create mates using mate connectors which snap together, making use of the mate connectors added and patterned in the block building assignment. The exploded view feature is also used to create a more descriptive assembly view to provide instructions for the building of the assembly.
+The snap tool was used in this assignment to create mates using mate connectors which snap together, making use of the mate connectors added and patterned in the block building assignment. The exploded view feature is also used to create a more descriptive assembly view to provide instructions for the building of the assembly, which makes recreation easier and more efficient.
 
 [Back to Table of Contents](#Table_of_Contents)
