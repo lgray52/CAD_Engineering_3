@@ -2,7 +2,8 @@
 
 ## Table_of_Contents
 * [Skateboard](#Skateboard)
-* [Power Tools](#Power_Tools)
+* [How the Pros Do It & One Brick to Rule Them All](One_Brick_to_Rule_Them_All)
+* [Duck Assembly](#Duck_Assembly)
 
 ## Skateboard
 
@@ -21,7 +22,7 @@ This assignment was a good re-introduction to OnShape, and included a lot of hel
 [Back to Table of Contents](#Table_of_Contents)
 
 
-## Power_Tools
+## One_Brick_to_Rule_Them_All
 
 ### Description
 This assingment created a LEGO-like block that could be configured with different lengths, names, colours, types, and heights, using variables and configurations. Configurations are a powerful OnShape tool which allows for the manipulation of different values and lengths in an object. For this assignment, configuring the numbers of rows and columns was a very effective way to change the shape and size of the brick. Additionally, the use of feature scripts to build useful custom features features is an incredibly powerful tool, and can be used to add certain features not included inherently with OnShape. 
@@ -34,5 +35,22 @@ This assingment created a LEGO-like block that could be configured with differen
 
 ### Reflection
 This assignment used configurations to more efficiently build a LEGO block. The shell tool is useful to create, well, a shell, and the lines from other parts, including those not originally defined by sketch geometry, can be used via the "use" feature in new sketches. Additionally, the unsupressed configuration is useful to correct for when things don't work at different configurations.
+
+[Back to Table of Contents](#Table_of_Contents)
+
+
+## Duck_Assembly
+
+### Description
+This assignment was to use the blocks built in the Power Tools assignment to build a duck assembly. Additionally, the continuation of this assignment was to create an instruction manual using OnShape drawings.
+
+### Evidence
+[OnShape Document](https://cvilleschools.onshape.com/documents/ed1a07c649738c77eab5d2cf/w/d6bda4fdf2ef58b6f1d4500e/e/f17eb32a8a420d4228c11109?renderMode=0&uiState=616d7eecbee0f16f0f8d1eed)
+
+### Images
+<img src="images/" alt="" height="300">
+
+### Reflection
+The snap tool was used in this assignment to create mates using mate connectors which snap together, making use of the mate connectors added and patterned in the block building assignment. The exploded view feature is also used to create a more descriptive assembly view to provide instructions for the building of the assembly.
 
 [Back to Table of Contents](#Table_of_Contents)
