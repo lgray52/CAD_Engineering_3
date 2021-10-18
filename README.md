@@ -2,7 +2,7 @@
 
 ## Table_of_Contents
 * [Skateboard](#Skateboard)
-* [How the Pros Do It & One Brick to Rule Them All](One_Brick_to_Rule_Them_All)
+* [How the Pros Do It & One Brick to Rule Them All](#One_Brick_to_Rule_Them_All)
 * [Duck Assembly](#Duck_Assembly)
 
 ## Skateboard
