@@ -14,7 +14,7 @@ This assignment was to design a skateboard using Part Studios in OnShape, in ord
 [OnShape Document](https://cvilleschools.onshape.com/documents/e34b09b561f390463bdd1626/w/33b8fcdd82c4df8aadd50ca4/e/6074d804d4f975e5f0609025?renderMode=0&uiState=6169cebf0f8075515dee6044)
 
 ### Images
-<img src="images/skateboard_iso.PNG" alt="skateboard isometric view" height="300"> <img src="images/skateboard_trucks.PNG" alt="skateboard view of trucks" height="300"> <img src="images/skateboard_bottom.PNG" alt="skateboard bottom view" height="300">
+<img src="images/skateboard_iso.PNG" alt="skateboard isometric view" height="300"> <img src="images/skateboard_trucks.PNG" alt="skateboard view of trucks" height="300"> <img src="images/skateboard_bottom.PNG" alt="skateboard bottom view" height="250"> <img src="images/sk_wheel_and_bearing.PNG" alt="wheel and bearing for skateboard" height="250">
 
 ### Overall Reflection
 This assignment was a good re-introduction to OnShape, and included a lot of helpful tips on various keyboard shortcuts. Some of the most helpful include "n", for normal, which situates a sketch or face normal to the nearest plane, "f", for fill, which causes the part(s) to fill the whole screen, "shift+e" to extrude, "d" to dimension, "c" for circle, and "shift+f" to fillet. 
