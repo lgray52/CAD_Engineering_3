@@ -8,7 +8,7 @@
 ## Skateboard
 
 ### Description
-This assignment was to design a skateboard using Part Studios in OnShape, in order to use the geometry of the other parts to make the modelling of the subsequent parts easier. The skateboard is composed of a deck, trucks, which consist of a baseplate, hanger, and bushing, wheels, and bearings for the wheels.
+This assignment was to design a skateboard using Part Studios in OnShape, in order to use the geometry of the other parts to make the modelling of the subsequent parts easier. The skateboard is composed of a deck, trucks, which consist of a baseplate, hanger, and bushing, wheels, and bearings for the wheels. The deck's geometry consisted of a rectangle, centered on the origin, and two circles, with four holes cut into the deck and mirrored across the origin. The baseplate of the trucks is based on these holes, where is would be screwed in, and the hanger and bushing use the geometry of the baseplate where they would be attached. The wheels and bearings were made in a different part studio, with the revolve feature used to create the wheel, and the bearing made using the shallower inside of the wheel.
 
 ### Evidence
 [OnShape Document](https://cvilleschools.onshape.com/documents/e34b09b561f390463bdd1626/w/33b8fcdd82c4df8aadd50ca4/e/6074d804d4f975e5f0609025?renderMode=0&uiState=6169cebf0f8075515dee6044)
