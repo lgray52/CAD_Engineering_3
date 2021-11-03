@@ -40,7 +40,7 @@ For the extension, I bent the board, made the trucks realistic, and changed the 
 ## One_Brick_to_Rule_Them_All
 
 ### Description
-This assignment created a LEGO-like block that could be configured with different lengths, names, colours, types, and heights, using variables and configurations. Configurations are a powerful OnShape tool which allows for the manipulation of different values and lengths in an object. For this assignment, configuring the numbers of rows and columns was a very effective way to change the shape and size of the brick. Additionally, the use of feature scripts to build useful custom features features is an incredibly powerful tool, and can be used to add certain features not included inherently with OnShape. 
+This assignment created a LEGO-like block that could be configured with different lengths, names, colours, types, and heights, using variables and configurations. Configurations are a powerful OnShape tool which allows for the manipulation of different values and lengths in an object. For this assignment, configuring the numbers of rows and columns was a very effective way to change the shape and size of the brick, starting with a 2x4 brick and creating configurations for 2x3, 2x2, 1x4, and 1x2 bricks, with configurations for a plate (short) and a tile (no connectors on top), and in blue, red, and yellow. The use of feature scripts to build useful custom features features, in this instance different names and colours for the bricks, is an incredibly powerful tool, and can be used to add certain features not included inherently with OnShape.
 
 ### Evidence
 [OnShape Document](https://cvilleschools.onshape.com/documents/ed1a07c649738c77eab5d2cf/w/d6bda4fdf2ef58b6f1d4500e/e/87b5ddf251ffa55f171ec4d3)
@@ -66,6 +66,6 @@ This assignment was to use the blocks built in the Power Tools assignment to bui
 <img src="images/duck_iso.png" alt="duck assembly isometric view" height="300"> <img src="images/duck_front.png" alt="duck assembly front view" height="300"> <img src="images/exploded_duck.png" alt="duck exploded view" height="300"> <img src="images/multi_duck_drawing.png" alt="duck multi-view drawing" height="300"> <img src="images/exploded_duck_drawing.png" alt="exploded view duck drawing" height="300">
 
 ### Reflection
-The snap tool was used in this assignment to create mates using mate connectors which snap together, making use of the mate connectors added and patterned in the block building assignment. The exploded view feature is also used to create a more descriptive assembly view to provide instructions for the building of the assembly, which makes recreation easier and more efficient.
+The snap tool was used in this assignment to create mates using mate connectors which snap together, making use of the mate connectors added and patterned in the block building assignment. The exploded view feature is also used to create a more descriptive assembly view to provide instructions for the building of the assembly, which makes recreation easier and more efficient. The most useful keyboard shortcut used in this assignment was "k" in assembly to hide visible mate connectors, which can get in the way, and holding "shift" to be able to keep normally hidden mate connectors shown. Additionally, in the drawing, sleceted shaded view shows the colours!
 
 [Back to Table of Contents](#Table_of_Contents)
